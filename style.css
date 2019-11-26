@@ -57,39 +57,63 @@ li a:hover{
 	border: 1px #CCCCCC solid;
 }
 
+.centersearch:hover {
+	box-shadow: 1px 1px 1px 1px #CCCCCC;
+}
+/*
 .submitbutton {
-	/*display: block;*/
+	display: block;
 	width: 120px;
 	height: 30px;
 	border: none;
-	/*margin: 10px auto 20px;*/
+	margin: 10px auto 20px;
 }
+*/
 
+/*
 .submitbutton:hover {
 	border: 1px #CCCCCC solid;
 	border-radius: 2px;
 }
+*/
 
+/*
 .feelinglucky {
-	/*display: block;*/
+	display: block;
 	width: 120px;
 	height: 30px;
 	border: none;
-	/*margin: 10px auto 20px;*/
+	margin: 10px auto 20px;
 }
+*/
 
+/*
 .feelinglucky:hover{
 	border: 1px #CCCCCC solid;
 	border-radius: 2px;
 }
+*/
 
 .buttons {
-	display: block;
-	margin: 10px auto 20px;
+	margin: auto;
+	width: 20%;
+	padding: 10px;
 }
 
 .buttons input{
 	display: inline;
+	color: #5F6368;
+	background-color: #f2f2f2;
+	margin: auto;
+	width: 132px;
+	height: 35px;
+	border: none;
+}
+
+.buttons input:hover {
+	border: 1px #CCCCCC solid;
+	border-radius: 2px;
+	color: black;
 }
 
 .navBottom {
