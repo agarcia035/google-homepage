@@ -60,43 +60,11 @@ li a:hover{
 .centersearch:hover {
 	box-shadow: 1px 1px 1px 1px #CCCCCC;
 }
-/*
-.submitbutton {
-	display: block;
-	width: 120px;
-	height: 30px;
-	border: none;
-	margin: 10px auto 20px;
-}
-*/
-
-/*
-.submitbutton:hover {
-	border: 1px #CCCCCC solid;
-	border-radius: 2px;
-}
-*/
-
-/*
-.feelinglucky {
-	display: block;
-	width: 120px;
-	height: 30px;
-	border: none;
-	margin: 10px auto 20px;
-}
-*/
-
-/*
-.feelinglucky:hover{
-	border: 1px #CCCCCC solid;
-	border-radius: 2px;
-}
-*/
 
 .buttons {
-	margin: auto;
-	width: 20%;
+	display: block;
+	text-align: center;
+	margin: 30px auto 20px;
 	padding: 10px;
 }
 
