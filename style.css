@@ -57,9 +57,11 @@ li a:hover{
 	border: 1px #CCCCCC solid;
 }
 
+/*
 .centersearch:hover {
 	box-shadow: 1px 1px 1px 1px #CCCCCC;
 }
+*/
 
 .buttons {
 	display: block;
